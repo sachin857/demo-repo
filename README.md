@@ -2,3 +2,4 @@
 
 Aadhar card
 PAN card
+Electric bill
